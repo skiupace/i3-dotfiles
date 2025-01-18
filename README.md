@@ -1,4 +1,5 @@
-# i3wm dotfiles
+# i3wm-dotfiles
+simple i3wm rice made under 30 minutes.
 
 ## Screenshots
 ![i3wm-3](https://github.com/user-attachments/assets/a4e8b337-5bb7-4030-9d1f-ccc4de0e6e62)
